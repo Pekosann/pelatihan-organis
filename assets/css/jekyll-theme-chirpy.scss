@@ -1,0 +1,64 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* ============================================================
+   Custom styles untuk Pelatihan Organis Kaiyuan
+   ============================================================ */
+
+/* ----- Custom Font: Parnumation4 ------------------------------
+   Font untuk notasi angka, dibuat sendiri oleh Hugo.
+   Letakkan file font di: assets/fonts/Parnumation4.woff2
+   Lihat assets/fonts/README.md untuk instruksi konversi.
+--------------------------------------------------------------- */
+@font-face {
+  font-family: 'Parnumation4';
+  src: url('/pelatihan-organis/assets/fonts/Parnumation4.woff2') format('woff2'),
+       url('/pelatihan-organis/assets/fonts/Parnumation4.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ----- Notasi Angka block ------------------------------------
+   Pemakaian:
+   <div class="notasi-angka">
+   1 2 3 4 | 5 . 3 1 | 2 . . . |
+   </div>
+--------------------------------------------------------------- */
+.notasi-angka {
+  font-family: 'Parnumation4', 'Courier New', monospace;
+  font-size: 1.4rem;
+  line-height: 2;
+  letter-spacing: 0.05em;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  background-color: var(--card-bg, #f8f8f8);
+  border-left: 4px solid var(--btn-border-color, #d0d0d0);
+  border-radius: 4px;
+  overflow-x: auto;
+  white-space: pre;
+}
+
+/* Inline notasi angka untuk dipakai dalam paragraf */
+.notasi-angka-inline {
+  font-family: 'Parnumation4', 'Courier New', monospace;
+  font-size: 1.1em;
+  padding: 0 0.2em;
+}
+
+/* ----- Notasi Balok hint -------------------------------------
+   Untuk caption gambar notasi balok / scan partitur
+--------------------------------------------------------------- */
+.notasi-balok-caption {
+  font-style: italic;
+  font-size: 0.9em;
+  color: var(--text-muted-color, #6c757d);
+  text-align: center;
+  margin-top: -0.5rem;
+}

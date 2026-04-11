@@ -1,5 +1,5 @@
 ---
-title: "1"
+title: "1 — Perkenalan, Keyboard & Not Angka Dasar"
 date: 2026-04-11 00:00:00 +0800
 categories: [Materi]
 tags: [perkenalan, keyboard, notasi-angka, posture, fingering, time-signature, fase-1]

@@ -1,5 +1,5 @@
 ---
-title: "1 — Perkenalan, Keyboard & Not Angka Dasar"
+title: "1"
 date: 2026-04-11 00:00:00 +0800
 categories: [Materi]
 tags: [perkenalan, keyboard, notasi-angka, posture, fingering, time-signature, fase-1]
@@ -12,27 +12,21 @@ Sebelum mulai, let's make a deal…
 
 📄 **Materi lengkap (PDF):** [Unduh PDF]({{ '/assets/pdf/Hari-1-Pelatihan-Organis.pdf' | relative_url }})
 
----
-
 ## Do Dimana? 😨
 
-![Keyboard: Two Black Keys and Three Black Keys](/assets/img/hari-1/slide-04.png){: .normal w="600"}
+![Two Black Keys and Three Black Keys](/assets/img/materi-1/image1.png){: .normal }
 
 ## Not angka
 
-![Not Angka dengan Piano](/assets/img/hari-1/slide-05.png){: .normal w="600"}
+![Not Angka 1-7](/assets/img/materi-1/image2.png){: .normal }
 
-Nada atas:
+Nada atas:  <span class="notasi-angka-inline">! @ # $ % ^ &amp;</span>
 
-<div class="notasi-angka">! @ # $ % ^ &</div>
-
-Nada bawah:
-
-<div class="notasi-angka">q w e r t y u</div>
+Nada bawah:  <span class="notasi-angka-inline">q w e r t y u</span>
 
 ## Nomor jari
 
-![Penomoran Jari Kiri dan Kanan](/assets/img/hari-1/slide-06.png){: .normal w="600"}
+![Penomoran Jari Kiri dan Kanan](/assets/img/materi-1/image3.jpg){: .normal }
 
 ① Ibu jari
 ② Jari Telunjuk
@@ -40,11 +34,9 @@ Nada bawah:
 ④ Jari Manis
 ⑤ Jari Kelingking
 
-## Postur
+![Top 10 Tips for Good Piano Posture](/assets/img/materi-1/image4.png){: .normal }
 
-![Top 10 Tips for Good Piano Posture](/assets/img/hari-1/slide-07.png){: .normal w="600"}
-
-![Wrong Posture vs Right Posture](/assets/img/hari-1/slide-08.png){: .normal w="600"}
+![Wrong Posture vs Right Posture](/assets/img/materi-1/image5.jpg){: .normal }
 
 ## Latihan Jari…
 
@@ -60,9 +52,7 @@ Nada bawah:
 - **3/4** — dalam satu birama terdapat 3 not, masing-masing bernilai 1 ketukan
 - **2/4** — dalam satu birama terdapat 2 not, masing-masing bernilai 1 ketukan
 
-![Bar Line Example](/assets/img/hari-1/slide-11.png){: .normal w="700"}
-
-### Nilai not
+![Bar Line](/assets/img/materi-1/image6.png){: .normal }
 
 | Notasi | Nama |
 |:---:|:---|
@@ -71,30 +61,30 @@ Nada bawah:
 | <span class="notasi-angka-inline">1 .</span> | Ta Un |
 | <span class="notasi-angka-inline">1</span> | Tam |
 
-### Latihan "Clap", dengan tepukan tangan
+- Latihan "Clap", dengan tepukan tangan
 
-<div class="notasi-angka">
+<pre class="notasi-angka">
 a. |1 . 1 . | 1 1 1 . | 1 . 1 1 | 1 . . . |
-b. |1 . . . | 1 1 1 1 | 1 . 1 . | 1 . . . |
+b. |1 . . . | 1 1 1 1 | 1 . 1 . |1 . . . |
 c. |1 . 1 . | 1 1 1 . | 1 . 1 . | 1 1 1 . |
 d. |1 . 1 | 1 . 1 | 1 1 1 | 1 . . |
 e. |1 . . 1 | 1 . . 1 | 1 . 1 . | 1 . . . |
 f. 1 | 1 . 1 | 1 . 1 | 1 1 1 | 1 . .|
 g. |1 1 1 | 1 . . | 1 1 1 | 1 . . |
 h. |1 . | 1 1 | 1 . | 1 . | 1 .| 1 1 | 1 . | 1 . |
-</div>
+</pre>
 
 ## Finding do re mi…
 
 ## Tugas
 
-**I. Latihan Jari**
+I. Latihan Jari
 
-**II. Finding 123 di semua tuts**
+II. Finding 123 di semua tuts
 
-**III. Clap**
+III. Clap
 
-<div class="notasi-angka">
+<pre class="notasi-angka">
 a. |1 1 1 . | 1 1 1 . | 1 1 1 1 | 1 1 1 . |
 b. |1 . 1 1 | 1 . 1 . | 1 . . . | 1 . . . |
 c. |1 . 1 | 1 . 1 | 1 1 1 | 1 . . |
@@ -102,31 +92,31 @@ d. |1 1 . 1 | 1 . . 1 | 1 1 1 1 | 1 . . . |
 e. |1 . . 1 | 1 1 1 1 | 1 . . 1 | 1 1 1 1 |
 f. |1 1 . 1 | 1 1 . 1 | 1 1 1 1 | 1 . 1 . |
 g. |1 . 1 | 1 1 1 | . 1 1 | 1 1 1 |
-</div>
+</pre>
 
 ## Contoh Lagu
 
 ### Si Semut
 
-<div class="notasi-angka">
+<pre class="notasi-angka">
 |5 3 3 .|4 2 2 .|1 2 3 4|5 5 5 .|
 |5 3 3 .|4 2 2 .|1 3 5 5|1 . . .|
 |2 2 2 2|2 3 4 .|3 3 3 3|3 4 5 .|
 |5 3 3 .|4 2 2 .|1 3 5 5|1 . . .|
-</div>
+</pre>
 
 ### Ode to Joy
 
-<div class="notasi-angka">
+<pre class="notasi-angka">
 |3 3 4 5|5 4 3 2|1 1 2 3|3 2 2 .|
 |3 3 4 5|5 4 3 2|1 1 2 3|2 1 1 .|
 |2 2 3 1|2 j3j4 3 1|2 j3j4 3 2|1 2 5 .|
 |3 3 4 5|5 4 3 2|1 1 2 3|2 1 1 .|
-</div>
+</pre>
 
 ### Ke Ren Lai
 
-<div class="notasi-angka">
+<pre class="notasi-angka">
 |3 2 1 .|3 2 1 .|3 5 3 1|2 . . .|
 |2 2 1 2|3 5 5 .|3 3 2 2|1 . . .|
-</div>
+</pre>

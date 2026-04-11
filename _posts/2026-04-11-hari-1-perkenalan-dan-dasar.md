@@ -12,7 +12,7 @@ image:
 > 🎹 **Selamat datang di Hari 1 Pelatihan Organis!** Materi ini adalah fondasi dari seluruh pelatihan. Kita akan berkenalan, mengenal keyboard, belajar not angka dasar, postur yang benar, dan mencoba memainkan lagu sederhana di akhir pertemuan.
 {: .prompt-tip }
 
-📄 **Materi lengkap (PDF):** [Hari-1-Pelatihan-Organis.pdf](/assets/pdf/Hari-1-Pelatihan-Organis.pdf)
+📄 **Materi lengkap (PDF):** [Hari-1-Pelatihan-Organis.pdf]({{ '/assets/pdf/Hari-1-Pelatihan-Organis.pdf' | relative_url }})
 
 ---
 
@@ -240,7 +240,7 @@ Latihlah lagu **Si Semut** (lihat bagian 8) sampai hafal. Pakai tangan kanan saj
 
 ## 📚 Referensi & Materi Pendukung
 
-- 📄 **PDF lengkap:** [Hari-1-Pelatihan-Organis.pdf](/assets/pdf/Hari-1-Pelatihan-Organis.pdf)
+- 📄 **PDF lengkap:** [Hari-1-Pelatihan-Organis.pdf]({{ '/assets/pdf/Hari-1-Pelatihan-Organis.pdf' | relative_url }})
 - 🎵 **Silabus lengkap:** [Lihat silabus 2026]({{ '/silabus/' | relative_url }})
 
 ---

@@ -52,6 +52,32 @@
   padding: 0 0.2em;
 }
 
+/* ----- Notasi Angka list --------------------------------------
+   Untuk daftar notasi angka dengan label (a., b., c., ...).
+   Label tetap pakai font reguler (list marker browser),
+   konten notasi pakai Parnumation4 via <span class="notasi-angka-inline">.
+
+   Pemakaian:
+   <ol class="notasi-list" type="a">
+     <li><span class="notasi-angka-inline">|1 . 1 . | 1 1 1 . |</span></li>
+     <li><span class="notasi-angka-inline">|1 . . . | 1 1 1 1 |</span></li>
+   </ol>
+--------------------------------------------------------------- */
+ol.notasi-list,
+ul.notasi-list {
+  margin: 1.5rem 0;
+  padding: 0.8rem 1.25rem 0.8rem 2.5rem;
+  background-color: var(--card-bg, #f8f8f8);
+  border-left: 4px solid var(--btn-border-color, #d0d0d0);
+  border-radius: 4px;
+}
+
+ol.notasi-list li,
+ul.notasi-list li {
+  line-height: 2;
+  margin-bottom: 0.2em;
+}
+
 /* ----- Notasi Balok hint -------------------------------------
    Untuk caption gambar notasi balok / scan partitur
 --------------------------------------------------------------- */

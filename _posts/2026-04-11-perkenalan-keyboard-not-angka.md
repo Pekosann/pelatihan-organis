@@ -10,7 +10,7 @@ Selamat Datang di Pelatihan Organis Kaiyuan
 
 Sebelum mulai, let's make a deal…
 
-📄 **Materi lengkap (PDF):** [Unduh PDF]({{ '/assets/pdf/Hari-1-Pelatihan-Organis.pdf' | relative_url }})
+📄 **Materi lengkap (PDF):** [Unduh PDF]({{ '/assets/pdf/1%20%E2%80%94%20Perkenalan%2C%20Keyboard%20%26%20Not%20Angka%20Dasar.pdf' | relative_url }})
 
 ## Do Dimana? 😨
 

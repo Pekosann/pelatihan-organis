@@ -64,14 +64,14 @@ Nada bawah:  <span class="notasi-angka-inline">q w e r t y u</span>
 - Latihan "Clap", dengan tepukan tangan
 
 <ol class="notasi-list" type="a">
-  <li><span class="notasi-angka-inline">|1 . 1 . | 1 1 1 . | 1 . 1 1 | 1 . . . |</span></li>
-  <li><span class="notasi-angka-inline">|1 . . . | 1 1 1 1 | 1 . 1 . |1 . . . |</span></li>
-  <li><span class="notasi-angka-inline">|1 . 1 . | 1 1 1 . | 1 . 1 . | 1 1 1 . |</span></li>
-  <li><span class="notasi-angka-inline">|1 . 1 | 1 . 1 | 1 1 1 | 1 . . |</span></li>
-  <li><span class="notasi-angka-inline">|1 . . 1 | 1 . . 1 | 1 . 1 . | 1 . . . |</span></li>
-  <li><span class="notasi-angka-inline">1 | 1 . 1 | 1 . 1 | 1 1 1 | 1 . .|</span></li>
-  <li><span class="notasi-angka-inline">|1 1 1 | 1 . . | 1 1 1 | 1 . . |</span></li>
-  <li><span class="notasi-angka-inline">|1 . | 1 1 | 1 . | 1 . | 1 .| 1 1 | 1 . | 1 . |</span></li>
+  <li><span class="notasi-angka-inline">|1 . 1 . | 1 1 1 . | 1 . 1 1 | 1 . . . +</span></li>
+  <li><span class="notasi-angka-inline">|1 . . . | 1 1 1 1 | 1 . 1 . |1 . . . +</span></li>
+  <li><span class="notasi-angka-inline">|1 . 1 . | 1 1 1 . | 1 . 1 . | 1 1 1 . +</span></li>
+  <li><span class="notasi-angka-inline">|1 . 1 | 1 . 1 | 1 1 1 | 1 . . +</span></li>
+  <li><span class="notasi-angka-inline">|1 . . 1 | 1 . . 1 | 1 . 1 . | 1 . . . +</span></li>
+  <li><span class="notasi-angka-inline">1 | 1 . 1 | 1 . 1 | 1 1 1 | 1 . .+</span></li>
+  <li><span class="notasi-angka-inline">|1 1 1 | 1 . . | 1 1 1 | 1 . . +</span></li>
+  <li><span class="notasi-angka-inline">|1 . | 1 1 | 1 . | 1 . | 1 .| 1 1 | 1 . | 1 . +</span></li>
 </ol>
 
 ## Finding do re mi…
@@ -85,13 +85,13 @@ II. Finding 123 di semua tuts
 III. Clap
 
 <ol class="notasi-list" type="a">
-  <li><span class="notasi-angka-inline">|1 1 1 . | 1 1 1 . | 1 1 1 1 | 1 1 1 . |</span></li>
-  <li><span class="notasi-angka-inline">|1 . 1 1 | 1 . 1 . | 1 . . . | 1 . . . |</span></li>
-  <li><span class="notasi-angka-inline">|1 . 1 | 1 . 1 | 1 1 1 | 1 . . |</span></li>
-  <li><span class="notasi-angka-inline">|1 1 . 1 | 1 . . 1 | 1 1 1 1 | 1 . . . |</span></li>
-  <li><span class="notasi-angka-inline">|1 . . 1 | 1 1 1 1 | 1 . . 1 | 1 1 1 1 |</span></li>
-  <li><span class="notasi-angka-inline">|1 1 . 1 | 1 1 . 1 | 1 1 1 1 | 1 . 1 . |</span></li>
-  <li><span class="notasi-angka-inline">|1 . 1 | 1 1 1 | . 1 1 | 1 1 1 |</span></li>
+  <li><span class="notasi-angka-inline">|1 1 1 . | 1 1 1 . | 1 1 1 1 | 1 1 1 . +</span></li>
+  <li><span class="notasi-angka-inline">|1 . 1 1 | 1 . 1 . | 1 . . . | 1 . . . +</span></li>
+  <li><span class="notasi-angka-inline">|1 . 1 | 1 . 1 | 1 1 1 | 1 . . +</span></li>
+  <li><span class="notasi-angka-inline">|1 1 . 1 | 1 . . 1 | 1 1 1 1 | 1 . . . +</span></li>
+  <li><span class="notasi-angka-inline">|1 . . 1 | 1 1 1 1 | 1 . . 1 | 1 1 1 1 +</span></li>
+  <li><span class="notasi-angka-inline">|1 1 . 1 | 1 1 . 1 | 1 1 1 1 | 1 . 1 . +</span></li>
+  <li><span class="notasi-angka-inline">|1 . 1 | 1 1 1 | . 1 1 | 1 1 1 +</span></li>
 </ol>
 
 ## Contoh Lagu
@@ -102,7 +102,7 @@ III. Clap
 |5 3 3 .|4 2 2 .|1 2 3 4|5 5 5 .|
 |5 3 3 .|4 2 2 .|1 3 5 5|1 . . .|
 |2 2 2 2|2 3 4 .|3 3 3 3|3 4 5 .|
-|5 3 3 .|4 2 2 .|1 3 5 5|1 . . .|
+|5 3 3 .|4 2 2 .|1 3 5 5|1 . . .+
 </pre>
 
 ### Ode to Joy
@@ -111,12 +111,12 @@ III. Clap
 |3 3 4 5|5 4 3 2|1 1 2 3|3 2 2 .|
 |3 3 4 5|5 4 3 2|1 1 2 3|2 1 1 .|
 |2 2 3 1|2 j3j4 3 1|2 j3j4 3 2|1 2 5 .|
-|3 3 4 5|5 4 3 2|1 1 2 3|2 1 1 .|
+|3 3 4 5|5 4 3 2|1 1 2 3|2 1 1 .+
 </pre>
 
 ### Ke Ren Lai
 
 <pre class="notasi-angka">
 |3 2 1 .|3 2 1 .|3 5 3 1|2 . . .|
-|2 2 1 2|3 5 5 .|3 3 2 2|1 . . .|
+|2 2 1 2|3 5 5 .|3 3 2 2|1 . . .+
 </pre>

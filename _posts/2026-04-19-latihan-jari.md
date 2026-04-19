@@ -15,7 +15,7 @@ Pertemuan 2
 | <span class="notasi-angka-inline">1 . .</span> | Ta A Un |
 | <span class="notasi-angka-inline">1 .</span> | Ta Un |
 | <span class="notasi-angka-inline">1</span> | Tam |
-| <span class="notasi-angka-inline">J1j j1</span> | Tam tam (not setengah ketuk) |
+| <span class="notasi-angka-inline">J1j j1</span> | ap-ple (not setengah ketuk) |
 | <span class="notasi-angka-inline">1 j.j1</span> | Ta A Un (2x lebih cepat) |
 
 ## Twinkle-twinkle Little Star

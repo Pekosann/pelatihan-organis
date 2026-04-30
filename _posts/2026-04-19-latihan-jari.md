@@ -1,8 +1,8 @@
 ---
 title: "2 — Latihan Jari"
 date: 2026-04-19 00:00:00 +0800
-categories: [Materi]
-tags: [latihan-jari, notasi-angka, ritme, twinkle, lavender, ps-539, fase-1]
+categories: [Materi, Basic]
+tags: [latihan-jari, notasi-angka, ritme, twinkle, lavender, ps-539, fase-1, basic]
 ---
 
 Pertemuan 2

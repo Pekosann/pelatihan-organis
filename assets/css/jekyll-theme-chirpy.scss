@@ -88,3 +88,30 @@ ul.notasi-list li {
   text-align: center;
   margin-top: -0.5rem;
 }
+
+/* ----- Kord / Kadens table ----------------------------------
+   Tabel ringkas untuk jari kord & progresi kadens.
+   Header pakai colspan agar judul kord (I, V7, Root, Balikan)
+   menaungi pasangan kolom (jari + nada / RH + LH).
+--------------------------------------------------------------- */
+.kord-table {
+  margin: 1.5rem auto;
+  border-collapse: collapse;
+  text-align: center;
+  font-size: 0.95rem;
+}
+
+.kord-table th,
+.kord-table td {
+  padding: 0.4rem 0.7rem;
+  border: 1px solid var(--btn-border-color, #d0d0d0);
+}
+
+.kord-table thead th {
+  background-color: var(--card-bg, #f8f8f8);
+  font-weight: 600;
+}
+
+.kord-table tbody td {
+  min-width: 2.2rem;
+}

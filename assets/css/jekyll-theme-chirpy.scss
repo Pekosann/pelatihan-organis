@@ -52,6 +52,17 @@
   padding: 0 0.2em;
 }
 
+/* ----- Anotasi kord / angka romawi / penjarian --------------------
+   Baris label (I IV V7, C F G7, ① ② ③) yang menaungi baris notasi
+   di dalam <pre class="notasi-angka">. Parnumation tidak punya glyph
+   huruf, jadi baris label di-reset ke monospace biasa supaya huruf
+   kord tampil benar dan tetap sejajar dengan notasi di bawahnya.
+--------------------------------------------------------------- */
+.notasi-angka .kord-anotasi {
+  font-family: 'Courier New', monospace;
+  color: var(--text-muted-color, #6c757d);
+}
+
 /* ----- Notasi Angka list --------------------------------------
    Untuk daftar notasi angka dengan label (a., b., c., ...).
    Label tetap pakai font reguler (list marker browser),

@@ -13,73 +13,19 @@ Pertemuan 6
 
 ## Baa Baa Black Sheep
 
-<pre class="notasi-angka">
-<span class="kord-anotasi"> I   IV    I       V     I   V     I</span>
-|1 1 5 5 | j67 j!6 5 . | 4 4 3 3 | 2 2 1 . |
-<span class="kord-anotasi"> C   F     C       G     C   G     C</span>
-<span class="kord-anotasi"> I     V       I     V       I     IV        I     V I</span>
-|5 j55 4 j44 | 3 j33 2 j.2 | 5 j55 j4j5j64 | 3 j22 1 . |
-<span class="kord-anotasi"> C     G       C     G       C     F         C     G C</span>
-</pre>
+![Baa Baa Black Sheep](/assets/img/songs/baa-baa-black-sheep.png)
 
 ## Lullaby
 
-<pre class="notasi-angka">
-<span class="kord-anotasi">      I         I         IV      I</span>
-<span class="kord-anotasi">①     ②   ①     ②   ①②    ⑤ ④ ③   ③ ②</span>
-J33 | 5 . j33 | 5 . j35 | ! 7 6 | 6 5
-<span class="kord-anotasi">      C         C         F       C</span>
-<span class="kord-anotasi">      V7        V7        V7        I</span>
-<span class="kord-anotasi">①②    ③   ①②    ③   ①②    ④③  ② ④   ⑤</span>
-J23 | 4 . j23 | 4 . j24 | j76 5 7 | ! .
-<span class="kord-anotasi">      G7        G7        G7        C</span>
-<span class="kord-anotasi">      IV        I         IV      I</span>
-<span class="kord-anotasi">①     ⑤   ③①    ②   ②①    ③ ④ ⑤   ⑤ ④</span>
-j11 | ! . j64 | 5 . j31 | 4 5 6 | 6 5
-<span class="kord-anotasi">      F         C         F       C</span>
-<span class="kord-anotasi">      IV        I         V7      I</span>
-<span class="kord-anotasi">①     ⑤   ③①    ②   ③①    ④ ③ ②   ①</span>
-j11 | ! . j64 | 5 . j31 | 4 3 2 | 1 .
-<span class="kord-anotasi">      F         C         G7      C</span>
-</pre>
+![Lullaby](/assets/img/songs/lullaby.png)
 
 ## I'm a Little Teapot
 
-<pre class="notasi-angka">
-<span class="kord-anotasi">  I       IV    I   V     I   V     I</span>
-| j12 j34 5 ! | 6 ! 5 . | 4 4 3 3 | 2 2 1 . |
-<span class="kord-anotasi">  C       F     C   G     C   G     C</span>
-<span class="kord-anotasi">  I       IV    I   V     I   V     I</span>
-| j12 j34 5 ! | 6 ! 5 . | 4 4 3 3 | 2 2 1 . |
-<span class="kord-anotasi">  C       F     C   G     C   G     C</span>
-<span class="kord-anotasi">  V           I         V           I</span>
-| 5 2 j23 4 | 3 1 5 . | 5 2 j23 4 | 3 1 5 . |
-<span class="kord-anotasi">  G           C         G           C</span>
-<span class="kord-anotasi">  I       IV    I   V     I     V     I</span>
-| j12 j34 5 ! | 6 ! 5 . | 4 j44 3 3 | 2 j22 1 . |
-<span class="kord-anotasi">  C       F     C   G     C     G     C</span>
-</pre>
+![I'm a Little Teapot](/assets/img/songs/i-m-a-little-teapot.png)
 
 ## Ibu Kita Kartini  (do = c, 4/4)
 
-<pre class="notasi-angka">
-<span class="kord-anotasi">  I           I           IV          I</span>
-<span class="kord-anotasi">  ① ②   ③ ④   ⑤ ③   ①     ③ ⑤   ④ ③   ②</span>
-| 1 j.2 3 4 | 5 j.3 1 . | 6 j.! 7 6 | 5 . . . |
-<span class="kord-anotasi">  C           C           F           C</span>
-<span class="kord-anotasi">  IV          I         V7          I</span>
-<span class="kord-anotasi">  ③ ⑤   ④ ③   ②   ①     ② ④   ③ ②   ①</span>
-| 4 j.6 5 4 | 3 . 1 . | 2 j.4 3 2 | 1 . . . |
-<span class="kord-anotasi">  F           C         G7          C</span>
-<span class="kord-anotasi">  IV          I             V7        I</span>
-<span class="kord-anotasi">  ③ ②   ③ ⑤   ④⑤  ④②  ① ③   ② ③ ④ ⑤   ③</span>
-| 4 j.3 4 6 | j56 j53 1 3 | 2 3 4 5 | 3 . . . |
-<span class="kord-anotasi">  F           C             G7        C</span>
-<span class="kord-anotasi">  IV          I             V7        I</span>
-<span class="kord-anotasi">  ③ ②   ③ ⑤   ④⑤  ④②  ① ③   ② ④ ①③②</span>
-| 4 j.3 4 6 | j56 j53 1 3 | 2 4 u 2 | 1 . . . |
-<span class="kord-anotasi">  F           C             G7        C</span>
-</pre>
+![Ibu Kita Kartini](/assets/img/songs/ibu-kita-kartini.png)
 
 ## Tangga Nada C Major
 

@@ -5,6 +5,6 @@ categories: [Songs]
 tags: [lagu, himne, puji-syukur]
 ---
 
-**Pertemuan 2**
+**Pertemuan 2, 7**
 
 ![PS 539 Yesus Tuhanku](/assets/img/songs/ps-539-yesus-tuhanku.png)
